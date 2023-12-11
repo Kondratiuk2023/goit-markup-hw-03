@@ -159,9 +159,7 @@ button {
   background-color: #2e2f42;
 }
 .hero-container {
-  padding-top: 188px;
-  /* padding-bottom: 292px; */
-  padding-bottom: 188px;
+  padding: 188px 0;
 }
 .hero-title {
   max-width: 496px;
@@ -175,9 +173,6 @@ button {
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
-/* .hero-wrapper {
-  padding: 0 472px;
-} */
 .hero-section-btn {
   min-width: 169px;
   height: 56px;
@@ -250,7 +245,7 @@ button {
   padding-bottom: 32px;
 }
 .team-user-title {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 
   color: #2e2f42;
   text-align: center;
@@ -290,7 +285,7 @@ button {
   border-top: none;
 }
 .portfolio-list-title {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 
   color: #2e2f42;
   font-size: 20px;
